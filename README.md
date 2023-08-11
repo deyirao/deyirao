@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **finding business ideas**
 
-- 💬 Ask me about **software development**
+- 💬 Ask me about **growing your social media account**
 
 - ⚡ Fun fact **I prefer working over relaxing**
 
