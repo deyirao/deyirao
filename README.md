@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a SAP Fiori walkthrough**
+- 🔭 I’m currently working on **full stack projects**
 
-- 🌱 I’m currently learning **SAP Fiori**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **finding business ideas**
 
-- 💬 Ask me about **growing your social media account**
+- 💬 Ask me about **theoretical computer science**
 
 - ⚡ Fun fact **I prefer working over relaxing**
 
